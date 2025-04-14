@@ -11,5 +11,3 @@ I'm an experienced UX/UI professional specializing in **human-centered design, u
 - 📄 [Career Path (LinkedIn)](https://www.linkedin.com/in/markopalski/)
 
 Don’t forget to explore my open-source contributions and design projects below 👇🏻
-
-P.S. To read this intro on terminal, just run npx mark. But why? -- why not? 🤷🏻‍♂️
