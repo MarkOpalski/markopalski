@@ -1,13 +1,34 @@
-### npx mark
+# Hello, this is Mark Opalski, a GUI designer on GitHub ⭐️  
+_What's the world coming to?_
 
-Hello, this is Mark Opalski, UX strategist and consultant ⭐️.
+## 🧑‍💻 My Pretensions  
+I'm more than a GUI designer; I'm a **dev-friendly designer**.  
+That means I'm happiest working alongside engineers solving _real_ user problems—preferably the kind we've seen with our own eyes. That’s the rubber-meets-road moment.
 
-I'm an experienced UX/UI professional specializing in **human-centered design, usability research, and creating impactful user experiences**. I have worked at top organizations like **Gartner and Lockheed Martin** and am passionate about **blending behavioral science with design**. **I believe in the power of evidence-based design to drive business outcomes**. I also love contributing to open-source projects and sharing knowledge on design best practices through talks and articles.
+I'm obsessed with how people actually use technology, not just whether they think it looks pretty.  
+Function before form (but sure, I’ll kern headings, I'll never not love typography).
 
-- 🌐 [My Professional Portfolio (is constantly changing)](www.markopalski.com)
-- 💼 [What am I doing about UX and Open Source? (GitHub, you're already here)](https://github.com/MarkOpalski)
-- 🔍 [What do I think is funny? (Tis But A Scratch)](https://www.youtube.com/watch?v=ZmInkxbvlCs)
-- 🧠 [What else do I think? (SubStack _sometimes_)](https://markopalski.substack.com/)
-- 📄 [Career Path (LinkedIn)](https://www.linkedin.com/in/markopalski/)
+## 🤖 Why I'm on Git  
+I'm here to get better with the **terminal**, **contribute to open-source projects**, and meet other slightly obsessive, problem-solving **weirdos**.
 
-Don’t forget to explore my open-source contributions and design projects below 👇🏻
+Ever since 1995—when I first met developers trading code like zines and passionately debating the ethics of software freedom—I’ve been hooked.  
+The open-source spirit blew my mind: collaborative, decentralized, and allergic to marketing.  
+It felt like discovering a secret society that *actually worked*.
+
+So yes, I’m showing up late, but I bring snacks and genuine curiosity.
+
+And let’s be honest: AI code assistants are making it way easier for folks like me to dive in.  
+_They don’t roll their eyes when I ask the same noob question 12 times, which makes them better collaborators than most humans I know._
+
+---
+
+## 🔗 My Side Quests
+
+- 🧠 [What I’m Thinking (Substack _sometimes_)](https://markopalski.substack.com/)  
+- 📚 [What I’m Reading](https://www.goodreads.com/review/list/4915614?shelf=currently-reading)  
+- 📄 [Career Stuff (LinkedIn)](https://www.linkedin.com/in/markopalski/)  
+- 🔍 [What I Think Is Funny](https://www.youtube.com/watch?v=ZmInkxbvlCs)
+
+---
+
+**Don’t forget to explore my open-source contributions and design projects below 👇🏻**
