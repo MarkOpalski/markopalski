@@ -1,4 +1,4 @@
-# Hello, this is Mark Opalski, a product Founder & Principal, Consulting UX ⭐️
+# Hello, this is Mark Opalski, Founder & Principal, Utilitas AX Systems ⭐️
 _(Dev-Friendly Designer • Open-Source Collaborator)_
 
 ## 🧑‍💻 My Pretensions  
