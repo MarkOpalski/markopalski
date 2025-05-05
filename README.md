@@ -1,4 +1,4 @@
-# Hello, this is Mark Opalski, Founder & Principal, Utilitas AX Systems ⭐️
+# Hello, this is Mark Opalski, Independent AI/UX Consultant based in New York ⭐️
 _(Dev-Friendly Designer • Open-Source Collaborator)_
 
 ## 🧑‍💻 My Pretensions  
