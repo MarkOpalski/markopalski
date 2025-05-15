@@ -24,8 +24,8 @@ I'm particularly interested in design systems, accessibility, and finding faster
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=markopalski&show_icons=true&theme=radical)
 
 ## Explore & Connect
-- [Inside my design brain](https://markopalski.substack.com/)  
-- [Current reads](https://www.goodreads.com/review/list/4915614?shelf=currently-reading)  
+- [Inside my brain on substack](https://markopalski.substack.com/)  
+- [Current reads on hardcover.app](https://hardcover.app/@checkmark)
 - [Professional journey](https://www.linkedin.com/in/markopalski/)  
-- [What makes me laugh](https://giphy.com/montypython)
+- [Bust a gut](https://giphy.com/montypython)
 
