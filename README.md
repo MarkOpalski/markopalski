@@ -7,23 +7,23 @@ I mix classic design thinking with new AI tools to create work that's both human
 
 I'm particularly interested in design systems, accessibility, and finding faster ways to bring good ideas to life.
 
-## Modern Design & Development Toolkit
+## My Current Toolbox
 - **Design & Prototyping:** Figma, Framer, Bolt.new
 - **AI Collaboration:** GitHub Copilot, ChatGPT, Claude, Alter AI, Cursor AI
 - **Development:** VS Code, Storybook, Supabase, Netlify
 - **Design Systems:** Tokens Studio, Radix UI, shadcn/ui
 - **Collaboration:** Notion, Linear, Atlassian Suite, GitHub
 
-## Currently Exploring
+## I'm Currently Exploring
 - AI-assisted design workflows
 - Component-driven development
 - Design token implementation
 - Accessible design systems at scale
 
-## GitHub Activity
+## My Humble GitHub Activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=markopalski&show_icons=true&theme=radical)
 
-## Connect & Explore
+## Explore & Connect
 - [Inside my design brain](https://markopalski.substack.com/)  
 - [Current reads](https://www.goodreads.com/review/list/4915614?shelf=currently-reading)  
 - [Professional journey](https://www.linkedin.com/in/markopalski/)  
