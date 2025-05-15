@@ -31,4 +31,4 @@ I blend traditional design thinking with emerging AI tools to create experiences
 - Design token implementation
 - Accessible design systems at scale
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=markopalski.markopalski)
+
