@@ -27,5 +27,5 @@ I'm particularly interested in design systems, accessibility, and finding faster
 - [Inside my brain on substack](https://markopalski.substack.com/)  
 - [Current reads on hardcover.app](https://hardcover.app/@checkmark)
 - [Professional journey](https://www.linkedin.com/in/markopalski/)  
-- [Bust a gut](https://giphy.com/montypython)
+- [Silly walks](https://giphy.com/gifs/silly-walks-ministry-Irdr4KvHw0shi)
 
