@@ -1,36 +1,34 @@
-# Hello, this is Mark Opalski, a Designer based in New York ⭐️
+# Hello, I'm Mark Opalski, a Designer Making Things in New York ⭐️
 
-## 🧑‍💻 My Pretensions  
-I'm more than a GUI designer; I'm a **dev-friendly designer**.  
-That means I'm happiest working alongside engineers solving _real_ user problems—preferably the kind we've seen with our own eyes. That’s the rubber-meets-road moment.
+## 🧑‍💻 What Makes Me Tick  
+I live for those moments when design solves real problems that people actually have. Give me a thorny user challenge over a decorative mockup any day.
 
-I'm obsessed with how people actually use technology, not just whether they think it looks pretty.  
-Function before form (but sure, I’ll kern headings, I'll never not love typography).
+## 🤖 Why I'm Here on Git  
+I thrive in the creative chaos of collaboration. Put me in a room with makers, builders, and curious minds, and I'm at my best. The open-source community's collaborative spirit is what drew me here.
 
-## 🤖 Why I'm on Git  
-I'm here to get better with the **terminal**, **contribute to open-source projects**, and meet other slightly obsessive, problem-solving **weirdos**. Along the way, I aim to make contributions that are clear, respectful, and genuinely helpful to the projects I join.
+## 🛠️ Modern Design & Development Toolkit
+- **Design & Prototyping:** Figma, Framer, Bolt.new
+- **AI Collaboration:** GitHub Copilot, ChatGPT, Claude, Alter AI, Cursor AI
+- **Development:** VS Code, Storybook, Supabase, Netlify
+- **Design Systems:** Tokens Studio, Radix UI, shadcn/ui
+- **Collaboration:** Notion, Linear, Atlassian Suite, GitHub
 
-From the early days of the internet, I first met developers trading code like zines and passionately debating the ethics of software freedom—I’ve been hooked.
-The open-source spirit blew my mind: collaborative, decentralized, and allergic to marketing.
-It felt like discovering a secret society that *actually worked*.
+## 💡 My Approach
+I blend traditional design thinking with emerging AI tools to create experiences that are both human-centered and technically innovative. I'm passionate about the intersection of design systems, accessibility, and rapid prototyping.
 
-And in all honesty: AI code assistants have made coding learnable for folks like me. As a beginner, I have many questions, and the best thing about AI is it's endless patience. 
-_They don’t roll their eyes when I ask the same noob question 12 times, which makes them great collaborators for learning._ Something I believe will catch on and spread globally, if it hasn't already.
-
-## 🛠️ What I Love Building
-- Real-world tools that people use every day
-- Interfaces that make complex things feel simple
-- Systems that stay maintainable long after the first deploy
-
----
+## 📊 GitHub Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=markopalski&show_icons=true&theme=radical)
 
 ## 🔗 My Side Quests
+- 🧠 [Inside my design brain](https://markopalski.substack.com/)  
+- 📚 [Current reads](https://www.goodreads.com/review/list/4915614?shelf=currently-reading)  
+- 📄 [Professional journey](https://www.linkedin.com/in/markopalski/)  
+- 🔍 [What makes me laugh](https://giphy.com/montypython)
 
-- 🧠 [What I’m Thinking (Substack _sometimes_)](https://markopalski.substack.com/)  
-- 📚 [What I’m Reading](https://www.goodreads.com/review/list/4915614?shelf=currently-reading)  
-- 📄 [Career Stuff (LinkedIn)](https://www.linkedin.com/in/markopalski/)  
-- 🔍 [What I Think Is Funny](https://giphy.com/montypython)
+## 📚 Currently Exploring
+- AI-assisted design workflows
+- Component-driven development
+- Design token implementation
+- Accessible design systems at scale
 
----
-
-**Don’t forget to explore my open-source contributions and design projects below 👇🏻**
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=markopalski.markopalski)
