@@ -1,4 +1,4 @@
-# Hello, I'm Mark Opalski, a Designer Making Things in New York ⭐️
+# Hello, I'm Mark Opalski, a Designer Making Things in New York City
 
 I get excited about design that solves real problems. Give me a challenging user issue over a pretty mockup any day—I'm here for the meaningful work that makes a difference in how people experience products.
 
