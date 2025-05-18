@@ -1,31 +1,21 @@
-# Hello, I'm Mark Opalski, a Designer Making Things in New York City
+Hi, I’m Mark 👋
 
-I get excited about design that solves real problems. Give me a challenging user issue over a pretty mockup any day—I'm here for the meaningful work that makes a difference in how people experience products.
+Problem Types I Gravitate Toward
 
-## My Approach
-I mix classic design thinking with new AI tools to create work that's both human-centered and technically solid. I've always found my best ideas emerge when collaborating with smart, curious people from different backgrounds. That's why I value the open-source community—it brings together diverse perspectives united by a shared goal of building better things.
+- Interfaces for **critical decisions under stress** (e.g. military, trading, aviation)  
+- Making complex systems **understandable and operable**  
+- Helping newer designers navigate complexity and ambiguity  
+- Exploring how creative and scientific processes can reinforce each other  
 
-I'm particularly interested in improving my coding skills.
 
-## My Current Toolbox
-- **Design & Prototyping:** Figma, Framer, Bolt.new
-- **AI Collaboration:** GitHub Copilot, ChatGPT, Claude, Alter AI, Cursor AI
-- **Development:** VS Code, Storybook, Supabase, Netlify
-- **Design Systems:** Tokens Studio, Radix UI, shadcn/ui
-- **Collaboration:** Notion, Linear, Atlassian Suite, GitHub
+Featured Repos
 
-## I'm Currently Exploring
-- AI-assisted design workflows
-- Component-driven development
-- Design token implementation
-- Accessible design systems at scale
+- **[ux-portfolio](https://github.com/MarkOpalski/ux-portfolio)** — the live code for the one-page dark-theme site (Astro + TS) :contentReference[oaicite:0]{index=0}  
+- **[netlify-feature-tour](https://github.com/MarkOpalski/netlify-feature-tour)** — proof-of-concept for an in-app onboarding tour :contentReference[oaicite:1]{index=1}  
+- **[startup-design-hiring-kit](https://github.com/MarkOpalski/startup-design-hiring-kit)** — ready-to-use scorecards & briefs for first UX hires :contentReference[oaicite:2]{index=2}  
+- **[agile-critique-paper](https://github.com/MarkOpalski/agile-critique-paper)** — TeX source for an evidence-based takedown of cargo-cult Agile :contentReference[oaicite:3]{index=3}
 
-## My Humble GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=markopalski&show_icons=true&theme=radical)
+Let's Connect
 
-## Explore & Connect
-- [Inside my brain on substack](https://markopalski.substack.com/)  
-- [Current reads on hardcover.app](https://hardcover.app/@checkmark)
-- [Professional journey](https://www.linkedin.com/in/markopalski/)  
-- [Silly walks](https://giphy.com/gifs/silly-walks-ministry-Irdr4KvHw0shi)
+[Writing](https://markopalski.substack.com/) | [LinkedIn](https://www.linkedin.com/in/markopalski/)
 
