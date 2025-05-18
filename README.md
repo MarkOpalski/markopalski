@@ -5,7 +5,7 @@ I get excited about design that solves real problems. Give me a challenging user
 ## My Approach
 I mix classic design thinking with new AI tools to create work that's both human-centered and technically solid. I've always found my best ideas emerge when collaborating with smart, curious people from different backgrounds. That's why I value the open-source community—it brings together diverse perspectives united by a shared goal of building better things.
 
-I'm particularly interested in design systems, accessibility, and finding faster ways to bring good ideas to life.
+I'm particularly interested in improving my coding skills.
 
 ## My Current Toolbox
 - **Design & Prototyping:** Figma, Framer, Bolt.new
