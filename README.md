@@ -16,7 +16,6 @@ _Featured Repos_
 - **[ux-portfolio](https://github.com/MarkOpalski/ux-portfolio)** — the live code for the one-page dark-theme site (Astro + TS) 
 - **[netlify-feature-tour](https://github.com/MarkOpalski/netlify-feature-tour)** — proof-of-concept for an in-app onboarding tour
 - **[startup-design-hiring-kit](https://github.com/MarkOpalski/startup-design-hiring-kit)** — ready-to-use scorecards & briefs for first UX hires 
-- **[agile-critique-paper](https://github.com/MarkOpalski/agile-critique-paper)** — TeX source for an evidence-based takedown of cargo-cult Agile 
 
 
 _Find me elsewhere_
