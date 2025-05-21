@@ -4,7 +4,7 @@ I'm still getting my legs here on GitHub and building up my contributions. In th
 
 _A bit about me_
 
-Design systems thinker who creates tools for both users and fellow creators. Code + design + documentation = my happy place.
+Design systems thinker who creates tools for both users and fellow creators. Design + code + feedback = my happy place.
 
 _Problems I gravitate toward_
 
