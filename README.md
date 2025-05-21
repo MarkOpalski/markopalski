@@ -1,4 +1,9 @@
-👋
+    ____  _________    ____  __  _________
+   / __ \/ ____/   |  / __ \/  |/  / ____/
+  / /_/ / __/ / /| | / / / / /|_/ / __/   
+ / _, _/ /___/ ___ |/ /_/ / /  / / /___   
+/_/ |_/_____/_/  |_/_____/_/  /_/_____/   
+                                          
 
 I'm still getting my legs here on GitHub and building up my contributions. In the meantime... 
 
