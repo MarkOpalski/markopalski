@@ -22,7 +22,7 @@ I'm proud to be someone who creates tools for people and fellow creators. Creati
 
 - Converting complex systems into **understandable and operable** experiences 
 - Helping newer designers navigate the complexity and ambiguity of this industry  
-- Exploring how creative and scientific processes can reinforce each other  
+- Exploring how the scientific method can enhance creative development and reinforce each other  
 
 
 #### _Repos I'm tinkering with_
