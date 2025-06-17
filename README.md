@@ -1,43 +1,23 @@
-```
+## Hi, I’m Mark Opalski
 
- __      __          ___                                        
-/\ \  __/\ \        /\_ \                                       
-\ \ \/\ \ \ \     __\//\ \     ___    ___     ___ ___      __   
- \ \ \ \ \ \ \  /'__`\\ \ \   /'___\ / __`\ /' __` __`\  /'__`\ 
-  \ \ \_/ \_\ \/\  __/ \_\ \_/\ \__//\ \L\ \/\ \/\ \/\ \/\  __/ 
-   \ `\___x___/\ \____\/\____\ \____\ \____/\ \_\ \_\ \_\ \____\
-    '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/
-                                                                
-                                    
-```
+I create tools and experiences that help people work better, think clearly, and navigate complexity.  
+I specialize in UX systems, AI-assisted workflows, and behaviorally informed design at enterprise scale.
 
+### What I Focus On
+- Turning complex systems into intuitive, operable experiences
+- Guiding teams through ambiguity with applied behavioral science
+- Using the scientific method to reinforce creative exploration
+- Building high-leverage UX strategy for mission-critical domains
 
+### Projects in Progress
+- `ux-portfolio` — Dark-themed portfolio template for anyone to copy
+- `netlify-feature-tour` — Lightweight in-app onboarding tour
+- `startup-design-hiring-kit` — Briefs, scorecards & onboarding for early-stage UX hiring
 
+### Find Me Elsewhere
+- [Portfolio](https://markopalski.com)  
+- [LinkedIn](https://www.linkedin.com/in/markopalski)  
+- [Writing on Substack](https://markopalski.substack.com)
 
-#### _A bit about me_
-
-I'm proud to be someone who creates tools for people and fellow creators. Creating things people interact with and use and hopefully enjoy = my happy place.
-
-#### _Problems I gravitate toward_
-
-- Converting complex systems into **understandable and operable** experiences 
-- Helping newer designers navigate the complexity and ambiguity of this industry  
-- Exploring how the scientific method can enhance creative development and reinforce each other  
-
-
-#### _Repos I'm tinkering with_
-
-- **[ux-portfolio](https://github.com/MarkOpalski/ux-portfolio)** — the live code for the one-page dark-theme site (Astro + TS) 
-- **[netlify-feature-tour](https://github.com/MarkOpalski/netlify-feature-tour)** — proof-of-concept for an in-app onboarding tour
-- **[startup-design-hiring-kit](https://github.com/MarkOpalski/startup-design-hiring-kit)** — ready-to-use scorecards & briefs for first UX hires 
-
-
-##### _Find me elsewhere_
-
-[Writing](https://markopalski.substack.com/) | [LinkedIn](https://www.linkedin.com/in/markopalski/)
-
-
-##### ASCII Art
-[PATORJK](http://patorjk.com/software/taag/#p=display&f=Larry%203D&t=Welcome)
 
 
