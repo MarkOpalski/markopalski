@@ -9,7 +9,4 @@ I specialize in UX systems, AI-assisted workflows, and behaviorally informed des
 - Using the scientific method to reinforce creative exploration
 - Building high-leverage UX strategy for mission-critical domains
 
-### Projects in Progress
-- `ux-portfolio` — Dark-themed portfolio template for anyone to copy
-- `netlify-feature-tour` — Lightweight in-app onboarding tour
-- `startup-design-hiring-kit` — Briefs, scorecards & onboarding for early-stage UX hiring
+
