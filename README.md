@@ -12,7 +12,7 @@ These projects showcase creative uses of AI in design, security, productivity, a
 - **A Notes App**: An intelligent notes application focused on simplicity and smart organization.
 - **A Home Run Tracker**: A tool for tracking and visualizing baseball home runs with AI-powered insights.
 
-### What I Focus On
+## What I Focus On
 - Turning complex systems into intuitive, operable experiences
 - Guiding teams through ambiguity with applied behavioral science
 - Using the scientific method to reinforce creative exploration
