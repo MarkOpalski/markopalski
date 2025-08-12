@@ -1,6 +1,6 @@
 ## Hi, I’m Mark Opalski
 
-I experiment with user interfaces and interactive experiences, exploring all the various ways to code with AI—from Copilot and Vibe to in-browser tools, native clients, and design platforms.
+I experiment with user interfaces and interactive experiences, exploring all the various ways to code with AI—from code-copilots and vibe-coding to in-browser tools, native clients, and design platforms.
 
 ## AI Experiments
 
