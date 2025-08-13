@@ -14,6 +14,3 @@ These projects showcase creative uses of AI in design, security, productivity, a
 
 ## What I Focus On
 - Turning complex systems into intuitive, operable experiences
-- Guiding teams through ambiguity with applied behavioral science
-- Using the scientific method to reinforce creative exploration
-- Building high-leverage UX strategy for mission-critical domains
