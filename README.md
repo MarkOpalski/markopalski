@@ -6,11 +6,11 @@ Currently fascinated by the weird, wonderful space where human creativity meets 
 
 ## AI Experiments
 
-Explore my collection of AI-driven projects and experiments, hosted on my GitHub Pages: [markopalski.github.io](https://markopalski.github.io/prompt-playground/)
+Explore my collection of AI-driven projects and experiments: 
 
 These projects showcase creative uses of AI in design, security, productivity, and sports:
 - **Retro Future Security Station UI**: A conceptual user interface blending retro aesthetics with modern security workflows
-- **A Notes App**: An intelligent notes application focused on simplicity and smart organization  
+- **[A Notes App](https://markopalski.github.io/prompt-playground/projects/todo-app/)**: An intelligent notes application focused on simplicity and smart organization  
 - **A Home Run Tracker**: A tool for tracking and visualizing baseball home runs with AI-powered insights
 
 *More experiments brewing—some work, some don't, all teach me something.*
