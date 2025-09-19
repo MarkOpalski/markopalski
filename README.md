@@ -12,6 +12,9 @@ These projects showcase creative uses of AI in design, security, productivity, a
 - **[Retro Future Security Station UI](https://guardian-ai-monitor.netlify.app/ "https://guardian-ai-monitor.netlify.app/")**: NUI designed to serve highly experienced Sys Admin Engineers and Security Operations Center (SOC) operators. 
 - **[A Notes App](https://markopalski.github.io/prompt-playground/projects/todo-app/)**: An intelligent notes application focused on simplicity and smart organization  
 - **[BaseBall Home Run Tracker](https://imaginative-bublanina-75efd1.netlify.app/)**: An interactive visualization tool to help baseball fans find the optimal seating locations for catching home run balls.
+- **[Comic Book App](https://comic-library-applic-my36.bolt.host/)**: A collectors library & reading experience.
+
+GPT's
 - **[User Research Method Finder (ChatGPT)]()**: 
 - **[The Incontrovertible Octopus (ChatGPT)]()**: 
 
