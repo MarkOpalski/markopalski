@@ -15,10 +15,13 @@ These projects showcase creative uses of AI in design, security, productivity, a
 - **[Comic Book App](https://comic-library-applic-my36.bolt.host/)**: A collectors library & reading experience.
 
 GPT's
-- **[User Research Method Finder (ChatGPT)]()**: 
-- **[The Incontrovertible Octopus (ChatGPT)]()**: 
+- **[User Research Method Finder (ChatGPT)]()** 
+- **[The Incontrovertible Octopus (ChatGPT)]()**
 
-*More experiments brewing—some work, some don't, all teach me something.*
+Game
+- **[Kitty vs Birdy](https://scratch.mit.edu/projects/945045567/)**
+
+
 
 ## What I Focus On
 
