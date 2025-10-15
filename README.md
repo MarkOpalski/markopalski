@@ -4,7 +4,7 @@ I experiment with user interfaces and interactive experiences, exploring all the
 
 Currently fascinated by the weird, wonderful space where human creativity meets machine intelligence. Some days I'm building with AI, other days I'm building *for* AI interactions, and most days I'm trying to figure out which is which.
 
-## Fun projects made with various AI techniques
+## Fun projects made with various AI tools and tricks
 
 Explore my collection of AI-driven projects and experiments: 
 
