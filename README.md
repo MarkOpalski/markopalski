@@ -4,6 +4,20 @@ I experiment with user interfaces and interactive experiences, exploring all the
 
 Currently fascinated by the weird, wonderful space where human creativity meets machine intelligence. Some days I'm building with AI, other days I'm building *for* AI interactions, and most days I'm trying to figure out which is which.
 
+## Typography & Design Tools
+
+### [Web Font Specimen](https://github.com/MarkOpalski/font-specimen) 
+**[Live Demo](https://markopalski.github.io/font-specimen/)**
+
+Enhanced version of Tim Brown's systematic font testing tool with modern web technologies:
+- Vite build tooling for fast development
+- HTML5 + CSS Grid modernization  
+- Google Fonts integration with WCAG compliance
+- Preserves original educational design methodology
+
+*Originally by Tim Brown (Adobe), enhanced with modern web standards while maintaining the systematic approach to typography testing.*
+
+
 ## Fun projects made with various AI tools and tricks
 
 Explore my collection of AI-driven projects and experiments: 
@@ -13,10 +27,6 @@ These projects showcase creative uses of AI in design, security, productivity, a
 - **[A Notes App](https://markopalski.github.io/prompt-playground/projects/todo-app/)**: An intelligent notes application focused on simplicity and smart organization  
 - **[BaseBall Home Run Tracker](https://imaginative-bublanina-75efd1.netlify.app/)**: An interactive visualization tool to help baseball fans find the optimal seating locations for catching home run balls.
 - **[Comic Book App](https://comic-library-applic-my36.bolt.host/)**: A collectors library & reading experience.
-
-GPT's
-- **[User Research Method Finder (ChatGPT)]()** 
-- **[The Incontrovertible Octopus (ChatGPT)]()**
 
 Game
 - **[Kitty vs Birdy](https://scratch.mit.edu/projects/945045567/)**
@@ -29,16 +39,3 @@ Game
 - Finding the sweet spot between AI capability and human agency
 - Building interfaces that feel natural even when the underlying tech is anything but
 
-## The Obligatory Portfolio
-
-[markopalski.com](https://www.markopalski.com/) — A visual record of project work presented in an antiquated model known as the 'portfolio'. The term was carried over from the days of print design and desktop publishing. I believe the portfolio is an extinct model, but I'm required to have one, so I reluctantly made it.
-
-*(It's actually not terrible, despite my protests.)*
-
-## Currently
-
-Working on understanding how we design for a world where the line between human and AI contribution keeps shifting. Also trying to perfect my coffee-to-code ratio.
-
----
-
-*Feel free to reach out if you want to talk shop about AI interfaces, argue about design patterns, or share what you're building.*
