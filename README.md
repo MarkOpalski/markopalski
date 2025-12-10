@@ -1,4 +1,4 @@
-## Hi, I'm Mark
+## Hoi!
 Here's some stuff I built (most of it works on my machine).
 
 ## Unordered list of said stuff
