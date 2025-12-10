@@ -1,41 +1,21 @@
-## Hi, I'm Mark Opalski
+## Hi, I'm Mark
+Here's some stuff I built (most of it works on my machine).
 
-I experiment with user interfaces and interactive experiences, exploring all the various ways to code with AI—from code-copilots and vibe-coding to in-browser tools, native clients, and design platforms.
-
-Currently fascinated by the weird, wonderful space where human creativity meets machine intelligence. Some days I'm building with AI, other days I'm building *for* AI interactions, and most days I'm trying to figure out which is which.
-
-## Typography & Design Tools
+## Unordered list of said stuff
 
 ### [Web Font Specimen](https://github.com/MarkOpalski/font-specimen) 
 **[Live Demo](https://markopalski.github.io/font-specimen/)**
 
-Enhanced version of Tim Brown's systematic font testing tool with modern web technologies:
-- Vite build tooling for fast development
-- HTML5 + CSS Grid modernization  
-- Google Fonts integration with WCAG compliance
-- Preserves original educational design methodology
+Enhanced version of Tim Brown's systematic font testing tool. Vite + CSS Grid + Google Fonts + WCAG compliance.
 
-*Originally by Tim Brown (Adobe), enhanced with modern web standards while maintaining the systematic approach to typography testing.*
+### [Retro Future Security Station](https://guardian-ai-monitor.netlify.app/)
+NUI for highly experienced Sys Admins and SOC operators.
 
+### [Baseball Seat Finder](https://imaginative-bublanina-75efd1.netlify.app/)
+So I can catch a Shohei homerun someday.
 
-## Fun projects made with various AI tools and tricks
+### [Comic Book Collector App](https://comic-library-applic-my36.bolt.host/)
+Fans like collecting and owning their comics. I'd like software worthy of that—software fans own that won't get torpedoed by a big corporation.
 
-Explore my collection of AI-driven projects and experiments: 
-
-These projects showcase creative uses of AI in design, security, productivity, and sports:
-- **[Retro Future Security Station UI](https://guardian-ai-monitor.netlify.app/ "https://guardian-ai-monitor.netlify.app/")**: NUI designed to serve highly experienced Sys Admin Engineers and Security Operations Center (SOC) operators. 
-- **[A Notes App](https://markopalski.github.io/prompt-playground/projects/todo-app/)**: An intelligent notes application focused on simplicity and smart organization  
-- **[BaseBall Home Run Tracker](https://imaginative-bublanina-75efd1.netlify.app/)**: An interactive visualization tool to help baseball fans find the optimal seating locations for catching home run balls.
-- **[Comic Book App](https://comic-library-applic-my36.bolt.host/)**: A collectors library & reading experience.
-
-Game
-- **[Kitty vs Birdy](https://scratch.mit.edu/projects/945045567/)**
-
-
-
-## What I Focus On
-
-- Turning complex systems into intuitive, operable experiences
-- Finding the sweet spot between AI capability and human agency
-- Building interfaces that feel natural even when the underlying tech is anything but
-
+### [Kitty vs Birdy](https://scratch.mit.edu/projects/945045567/)
+My first game.
