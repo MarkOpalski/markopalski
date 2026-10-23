@@ -27,11 +27,11 @@ Welcome to this repository. It is a silly place.
 
 ---
 
-### ᕙ(⇀‸↼‶)ᕗ The Tech Stack (Medieval Edition)
+### (╬▔皿▔)╯ The Tech Stack (Medieval Edition)
 
 * **Python:** Used exclusively for catching regular expressions (and avoiding giant feet dropping from the sky).
 * **Git:** `git push --force` because no one expects the Black Knight to yield!
-* **AI Assistants:** Cultivating a dangerous level of confidence while hallucinating syntax that hasn't been invented yet.
+* * **AI Assistants:** Cultivating a dangerous level of confidence while demanding a shrubbery! One that looks nice. And not too expensive. 
 
 ---
 
