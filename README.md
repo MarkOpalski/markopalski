@@ -8,9 +8,9 @@ Welcome to this repository. It is a silly place.
 
 ### (๑•̀ㅂ•́)و✧ On Second Thought, Let’s Not Go to Camelot (It Is a Silly Repository)
 
-![AI Confidence](https://shields.io)
-![Code Quality](https://shields.io)
-![Tests Passed](https://shields.io)
+![AI Confidence](https://img.shields.io/badge/AI%20Confidence-Dangerous%20Levels-red?style=for-the-badge&logo=openai)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%20Mere%20Flesh%20Wound-orange?style=for-the-badge)
+![Tests Passed](https://img.shields.io/badge/Tests%20Passed-0%20%2F%200%20(Flawless)-brightgreen?style=for-the-badge)
 
 ---
 
@@ -36,8 +36,8 @@ Welcome to this repository. It is a silly place.
 ### (っಠ‿ಠ)っ The Royal Spoils of War
 *Every green square represents a coconut banged together to simulate grand progress.*
 
-![Mark's Stats](https://vercel.app)
-![Mark's Top Languages](https://vercel.app)
+![Mark's Stats](https://github-readme-stats.vercel.app/api?username=MarkOpalski&show_icons=true&theme=radical)
+![Mark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkOpalski&layout=compact&theme=radical)
 
 ---
 
