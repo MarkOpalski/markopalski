@@ -2,7 +2,11 @@
 
 Welcome to this repository. It is a silly place.
 
-> "It turned my code into a newt! (ﾉ◕ヮ◕)ﾉ*:･✧ ...Well, it got better. But if the codebase weighs the same as a duck, it floats on water, meaning it is made of wood, and therefore... A WITCH! BURN IT!"
+> "It turned my code into a newt! (ﾉ◕ヮ◕)ﾉ*:･✧ 
+
+...Well, it got better. 
+
+But if the codebase weighs the same as a duck, it floats on water, meaning it is made of wood, and therefore... A WITCH! BURN IT!"
 
 ---
 
