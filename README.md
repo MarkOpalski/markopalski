@@ -1,14 +1,14 @@
-# (╬▔皿▔)凸 Halt! Who goes there?
+# (╬▔皿▔)凸 Halt! 
 
-Welcome to this repository. It is a silly place.
 
-> "It turned my code into a newt! (ﾉ◕ヮ◕)ﾉ*:･✧ 
-> ...Well, it got better. 
-> But if the codebase weighs the same as a duck, it floats on water, meaning it is made of wood, and therefore... A WITCH! BURN IT!"
+> This is a silly place
+> With shrubberies and knights who say NI!
+> Now go away!
+> Or I will taunt you a second time.
 
 ---
 
-### (๑•̀ㅂ•́)و✧ On Second Thought, Let’s Not Go to Camelot (It Is a Silly Repository)
+### (๑•̀ㅂ•́)و✧ On Second Thought, Let’s Not Go to Camelot
 
 ![AI Confidence](https://img.shields.io/badge/AI%20Confidence-Dangerous%20Levels-red?style=for-the-badge&logo=openai)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%20Mere%20Flesh%20Wound-orange?style=for-the-badge)
