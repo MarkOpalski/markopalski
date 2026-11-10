@@ -1,10 +1,15 @@
 # (╬▔皿▔)凸 Halt! 
 
-
+>
 > This is a silly place
-> With shrubberies and knights who say NI!
-> Now go away!
+> With shrubberies and
+> Awful witches who turn ai newts into repos 
+>
+> Now…
+> Go away!
 > Or I will taunt you a second time.
+>
+> 
 
 ---
 
@@ -20,10 +25,13 @@
 
 | Relic / Asset | Current Count | Status |
 | :--- | :--- | :--- |
-| **Bugs Written** | 4,206,900 | *( つ ◕_◕ )つ A mere flesh wound* |
+| **Bugs Generated** | 4,206,900 | *( つ ◕_◕ )つ A mere flesh wound* |
 | **Successful Commits** | 1 | *＼(〇_ｏ)／ An absolute fluke* |
-| **Knights Who Say 'Git'** | 3 | *(╬▔皿▔)╯ Demanding a shrubbery* |
+| **Knights Who Say 'NI'** | 3 | *(╬▔皿▔)╯ Demanding a shrubbery* |
 | **Killer Rabbits of Caerbannog** | 1 | *（•ㅅ•） Armed with nasty, big, pointy teeth* |
+| **Witches Turning Users into Newts** | 1 | *(ﾉｏ皿ｏ)ﾉ*:･✧  Reported by the victim, though he appears to have gotten better* |
+| **Ran Away!** | 4,206,900 | *ᕕ(ᐛ)ᕗ An absolute fluke* |
+
 
 ---
 
