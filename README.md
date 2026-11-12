@@ -5,9 +5,6 @@
 > Now… GO! Or we shall say Ni! a second time!
 >  
 
-
-### (๑•̀ㅂ•́)و✧ 
-
 ![AI Confidence](https://img.shields.io/badge/AI%20Confidence-Dangerous%20Levels-red?style=for-the-badge&logo=openai)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%20Mere%20Flesh%20Wound-orange?style=for-the-badge)
 ![Tests Passed](https://img.shields.io/badge/Tests%20Passed-0%20%2F%200%20(Flawless)-brightgreen?style=for-the-badge)
@@ -60,3 +57,5 @@ If you wish to open a Pull Request, you must first answer me these questions thr
 
 ---
 *This profile page is dynamic, except for the parts that are dead. (▰˘︹˘▰) If you find a bug, please blame the programmers responsible for sacking the programmers who have just been sacked.*
+
+### (๑•̀ㅂ•́)و✧ *
