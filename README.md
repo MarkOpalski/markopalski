@@ -1,19 +1,12 @@
-# (╬▔皿▔)凸 Halt! 
+# (╬▔皿▔)凸 Ni! 
 
->
-> This is a silly place
-> With shrubberies and
-> Awful witches who turn ai newts into repos 
->
-> Now…
-> Go away!
-> Or I will taunt you a second time.
->
+> We demand a shrubbery!
 > 
+> Now… GO! Or we shall say Ni! a second time!
+>  
 
----
 
-### (๑•̀ㅂ•́)و✧ On Second Thought, Let’s Not Go to Camelot
+### (๑•̀ㅂ•́)و✧ 
 
 ![AI Confidence](https://img.shields.io/badge/AI%20Confidence-Dangerous%20Levels-red?style=for-the-badge&logo=openai)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%20Mere%20Flesh%20Wound-orange?style=for-the-badge)
